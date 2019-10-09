@@ -1,4 +1,4 @@
-# Information-Retrieval
+# Data-Retrieval
 
 1. Document Collection Description
 
